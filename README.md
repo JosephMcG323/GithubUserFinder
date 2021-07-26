@@ -10,6 +10,6 @@ using live server or other extension
 ////////////// Purpose //////////////
 
 
--learning how to use FETCH , a simpler way than XHR to handle HTTP requests, to pull pyublic data from github 
+>earning how to use FETCH , a simpler way than XHR to handle HTTP requests, to pull pyublic data from github 
 
--accessing data using html query parameters that require credentials
+>accessing data using html query parameters that require credentials
